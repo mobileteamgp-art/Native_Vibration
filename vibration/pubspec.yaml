@@ -1,7 +1,7 @@
 name: native_vibration
 description: A plugin for handling Vibration API on iOS, Android, web and OpenHarmony.
 version: 1.0.0
-homepage: https://github.com/benjamindean/flutter_vibration
+homepage: https://github.com/mobileteamgp-art/Native_Vibration
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
