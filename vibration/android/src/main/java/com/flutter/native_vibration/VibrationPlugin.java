@@ -29,6 +29,7 @@ public class VibrationPlugin implements FlutterPlugin {
         }
     }
 
+    @SuppressWarnings("deprecation")
     private Vibrator getLegacyVibrator(@NonNull FlutterPluginBinding flutterPluginBinding) {
         return (Vibrator) flutterPluginBinding.getApplicationContext().getSystemService(Context.VIBRATOR_SERVICE);
     }
