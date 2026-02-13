@@ -1,6 +1,6 @@
 name: native_vibration
 description: A plugin for handling Vibration API on iOS, Android, web and OpenHarmony.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/mobileteamgp-art/Native_Vibration
 
 environment:
